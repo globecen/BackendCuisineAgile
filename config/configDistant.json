@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "CuisineAgile",
+    "password": "test",
+    "database": "CuisineAgile",
+    "host": "globecen.freeboxos.fr",
+    "dialect": "mariadb"
+  },
+  "test": {
+    "username": "CuisineAgile",
+    "password": "test",
+    "database": "CuisineAgile",
+    "host": "globecen.freeboxos.fr",
+    "dialect": "mariadb"
+  },
+  "production": {
+    "username": "CuisineAgile",
+    "password": "test",
+    "database": "CuisineAgile",
+    "host": "globecen.freeboxos.fr",
+    "dialect": "mariadb"
+  }
+}
