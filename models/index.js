@@ -5,9 +5,9 @@ const path = require('path');
 const Sequelize = require('sequelize');
 const basename = path.basename(__filename);
 //Base de developpement
-//const env = process.env.NODE_ENV || 'development';
+const env = process.env.NODE_ENV || 'development';
 //Base de test
-const env = process.env.NODE_ENV || 'test';
+//const env = process.env.NODE_ENV || 'test';
 //Base de production
 //const env = process.env.NODE_ENV || 'production';
 //ConfigLocal
